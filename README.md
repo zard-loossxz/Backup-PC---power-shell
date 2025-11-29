@@ -2,6 +2,12 @@
 
 ---
 
+![Structure](https://github.com/user-attachments/assets/1ef89485-4c4a-495a-be8b-100f7a0b3c75)
+
+
+
+
+
 ## 🇬🇧 English Project Description
 
 ### 🌟 Project Name: **Robust-Parallel-Backup-PS**
